@@ -3,10 +3,10 @@
 8388
 shadowsocks
 chacha20
-auth_sha1_v4
-tls1.2_ticket_auth
+origin
+plain
 ### Kcptun
 18388
 kcptun
 salsa20
-fast
+fast2
