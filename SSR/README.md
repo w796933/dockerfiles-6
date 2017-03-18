@@ -7,6 +7,6 @@ origin
 plain
 ### Kcptun
 18388
-kcptun
+674268355
 salsa20
 fast2
